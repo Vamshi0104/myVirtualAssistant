@@ -1,0 +1,10 @@
+# Add your Playlist Songs Here.This File Content is accessed when the user requires a song to Play.The Below Files are in mp3 format, the changes can be made in Song_VA.py file in accordance with the formar that is mp3/flac in directory. User Manual :Before executing this remove the above text since the file contents only include names of Audio files  
+
+intro1
+intro2
+intro3
+
+
+
+
+
