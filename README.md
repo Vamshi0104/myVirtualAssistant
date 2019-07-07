@@ -41,6 +41,8 @@ The supporting python files like DateTime_VA.py actually the extension changes i
 Actually it is quite easy to import a another file in existing  file with one line code that is let’s consider importing DateTime_VA python file in Main File Virtual_Assitant.ipynb  
 				
 				%run Datetime_VA.ipynb  (Works in JupyterNotebook)
+ 
+ While viewing the code you can find this Statement( get_ipython().run_line_magic('run', 'entry_VA.ipynb')),since it is executed in Jupyter notebook extension is (.ipynb) but the files attached to Master Branch are (.py) So,Just replace with statement(%run Datetime_VA.ipynb) if you are running in Jupyter Notebook.
 				
 File Handling fuctions like open, read, write  are used for Quotes, Song modules as they take content from corresponding .txt files which are already attached to the master branch in my repository 
 
@@ -63,6 +65,7 @@ Step4:
 Make sure that Jupyter Notebook and Python  that you have installed are lastest release version in order to run as Currently  I am using Python 3.7
 For more info in Downloading Visit:
 			https://anaconda.org 
+
 
 --->Finally,Run Virtual_Assistant.py file(Attached to Master Branch) to execute.
 
